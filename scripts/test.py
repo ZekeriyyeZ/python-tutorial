@@ -1,2 +1,6 @@
 for i in range(5):
-    print("Hi Python")
+    if i%2 != 0:  
+        print("Hi Python")
+    
+ 
+    
